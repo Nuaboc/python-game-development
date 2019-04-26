@@ -10,7 +10,7 @@ The objective of this repository is to introduce beginners in codign or game dev
 #### Libraries
 
 Some lybraries for 2D game dev in python are:
-##### Pygame
+#### Pygame
 Pygame documentation:
 https://www.pygame.org/docs/
 or
