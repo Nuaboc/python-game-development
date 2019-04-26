@@ -21,6 +21,15 @@ http://arcade.academy/
 or
 https://pypi.org/project/arcade/
 
+### Installation instructions
+#### Installin Python
+
+#### Installing Pygame
+
+#### Installing Arcade
+
+
+
 ### Contribution
 
 Anyone can contribute on this repository to help each other getting some skills further.
