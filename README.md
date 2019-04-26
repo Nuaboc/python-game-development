@@ -21,6 +21,9 @@ http://arcade.academy/
 or
 https://pypi.org/project/arcade/
 
+#### freegames
+http://www.grantjenks.com/docs/freegames/index.html
+
 ### Installation instructions
 #### Installin Python
 
@@ -29,6 +32,8 @@ https://pypi.org/project/arcade/
 #### Installing Pygame
 
 #### Installing Arcade
+
+#### Installing freegames
 
 
 
