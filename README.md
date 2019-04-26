@@ -17,6 +17,7 @@ or
 https://devdocs.io/pygame/
 
 #### Arcade
+http://arcade.academy/
 
 ### Contribution
 
