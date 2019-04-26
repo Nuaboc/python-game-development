@@ -24,6 +24,8 @@ https://pypi.org/project/arcade/
 ### Installation instructions
 #### Installin Python
 
+#### Installing or upgrading pip
+
 #### Installing Pygame
 
 #### Installing Arcade
